@@ -2,16 +2,16 @@
 
 Personal build log for the multirotors I've designed, built, tuned and flown
 over about 14 years of RC aircraft (fixed wing → helicopters → FPV
-multirotors). It's documented because the parts of this I enjoy most: frame 
+multirotors). It's documented because frame 
 design, wiring and integration, RF video links, bench-to-first-flight 
-testing, overlap with what I do professionally.
+testing, are the parts of this I enjoy most.
 
 Each build folder will have the full parts
 list, more photos, and notes.
 
 ---
 
-## 1. Scratch-designed 2" micro quad
+## 1. 2" micro quad
 
 ![Micro quad in the field](builds/micro-quad-2in/images/hero.jpg)
 
@@ -23,16 +23,15 @@ individual BLHeli_S ESCs, 25 mW 5.8 GHz analog video, HoTT control link.
 
 → [Full build notes](builds/micro-quad-2in/)
 
-## 2. Scratch-built tricopter
+## 2. Tricopter
 
 ![Tricopter](builds/tricopter/images/hero.jpg)
 
-Large three-motor airframe built from scratch: carbon square-tube arms on a
-cut plate, with the rear motor on a 3D-printed pivoting mount driven by a
+Large three-motor airframe built from scratch: wood square-tube arms on a
+delrin plate, with the rear motor on a 3D-printed pivoting mount driven by a
 servo for yaw. Naze32 flight controller, Fatshark 600 mW analog VTX, Graupner
-HoTT receiver, HD action camera up front. Flies more like an aeroplane than a
-quad — banked, forward-flight handling. Kept as a reference build; not first
-in line for restoration.
+HoTT receiver, HD action camera up front. Flies more like an airplane than a
+quad: banked, forward-flight handling.
 
 → [Full build notes](builds/tricopter/)
 
@@ -42,7 +41,7 @@ in line for restoration.
 
 Kit frame (ImpulseRC Alien), self-assembled and wired, analog FPV with
 ImmersionRC antenna, GoPro Hero for HD recording. The "big" quad of the fleet.
-Parts list being reconstructed from old orders.
+Parts list will be added.
 
 → [Full build notes](builds/alien-6in/)
 
@@ -51,23 +50,21 @@ Parts list being reconstructed from old orders.
 ![Bebop 2 next to the micro quad](builds/micro-quad-2in/images/parrot_and_mini.jpg)
 
 Off-the-shelf, but earns its place: it was the first multirotor I flew, and
-I've used it mostly for range testing and autonomous waypoint missions rather
-than manual flying.
+I've used it mostly for range testing and autonomous waypoint missions.
 
 ---
 
-## Ground station
+## Transmitter
 
 ![Graupner MZ-18](ground-station/mz18.jpg)
 
 One radio for everything: a Graupner MZ-18 (2.4 GHz HoTT, bidirectional
 telemetry), used across fixed wing, a Blade 400 helicopter with upgraded
-flybarless controller and servos, and all of the multirotors above. Still
-powers up fine after several years in storage.
+flybarless controller and servos, and all of the multirotors above.
 
 ## What these cover
 
-- Frame design in Fusion 360 and FDM printing (PLA), print-tuning for strength
+- Frame design in Fusion 360 and FDM printing, print-tuning for strength
 - Component selection, soldering and wiring on 20 mm and micro form factors
 - Betaflight / Cleanflight-era flight-controller setup, ESC flashing, tuning
 - Analog 5.8 GHz video links (25–600 mW), antenna choice, range testing
