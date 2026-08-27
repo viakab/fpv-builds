@@ -1,14 +1,12 @@
 # FPV Multirotor Builds — Victor Iakab
 
 Personal build log for the multirotors I've designed, built, tuned and flown
-over roughly ten years of RC aircraft (fixed wing → helicopters → FPV
-multirotors). Everything here is hobby scale and self-funded. It's documented
-because the parts of this I enjoy most — frame design, wiring and integration,
-RF video links, bench-to-first-flight testing — overlap with what I do
-professionally.
+over about 14 years of RC aircraft (fixed wing → helicopters → FPV
+multirotors). It's documented because the parts of this I enjoy most: frame 
+design, wiring and integration, RF video links, bench-to-first-flight 
+testing, overlap with what I do professionally.
 
-Status (Aug 2026): all aircraft were last flown around 2022 and are being
-brought out of storage and restored. Each build folder has the full parts
+Each build folder will have the full parts
 list, more photos, and notes.
 
 ---
