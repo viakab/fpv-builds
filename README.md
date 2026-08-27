@@ -27,7 +27,7 @@ individual BLHeli_S ESCs, 25 mW 5.8 GHz analog video, HoTT control link.
 
 ![Tricopter](builds/tricopter/images/hero.jpg)
 
-Large three-motor airframe built from scratch: wood square-tube arms on a
+Large three-motor airframe built from scratch: wood square-beam arms on a
 delrin plate, with the rear motor on a 3D-printed pivoting mount driven by a
 servo for yaw. Naze32 flight controller, Fatshark 600 mW analog VTX, Graupner
 HoTT receiver, HD action camera up front. Flies more like an airplane than a
