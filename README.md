@@ -2,9 +2,9 @@
 
 Personal build log for the multirotors I've designed, built, tuned and flown
 over about 14 years of RC aircraft (fixed wing → helicopters → FPV
-multirotors). It's documented because frame 
-design, wiring and integration, RF video links, bench-to-first-flight 
-testing, are the parts of this I enjoy most.
+multirotors). It's documented because the parts I enjoy most are frame 
+design, wiring and integration and RF video links as well as bench-to-first-flight 
+testing.
 
 Each build folder will have the full parts
 list, more photos, and notes.
