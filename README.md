@@ -11,7 +11,7 @@ list, more photos, and notes.
 
 ---
 
-## 1. 2" micro quad
+## 1. Micro Quad 2"
 
 ![Micro quad in the field](builds/micro-quad-2in/images/hero.jpg)
 
