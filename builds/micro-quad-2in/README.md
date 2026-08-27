@@ -39,8 +39,7 @@ printed in PLA. All-up weight ~75 g on a 2S 800 mAh LiPo.
 
 ## Status
 
-Flown regularly until ~2022. Located again Aug 2026; prop screws, receiver
-antenna and spare props missing after storage. Being restored.
+Flown regularly until. Currently under maintenance and rebuild.
 
 ## Flight footage
 
@@ -48,5 +47,6 @@ _DVR footage to be added (link)._
 
 ## Notes
 
+Redesign and print a new frame: lighter and more compact.
 _(Add: what you'd change on the frame, print settings that mattered, anything
 that broke.)_
