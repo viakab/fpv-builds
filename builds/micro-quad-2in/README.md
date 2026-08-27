@@ -48,5 +48,3 @@ _DVR footage to be added (link)._
 ## Notes
 
 Redesign and print a new frame: lighter and more compact.
-_(Add: what you'd change on the frame, print settings that mattered, anything
-that broke.)_
