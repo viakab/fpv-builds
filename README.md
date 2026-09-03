@@ -35,7 +35,19 @@ quad: banked, forward-flight handling.
 
 → [Full build notes](builds/tricopter/)
 
-## 3. ImpulseRC Alien 6" freestyle quad
+## 3. Foamboard Spitfire with full FPV harness
+
+![Spitfire](builds/spitfire-fpv/images/hero.jpg)
+
+Scratch-built from foamboard sheets, then fitted out for FPV: camera on a
+pan servo so I could look around in flight, Eagle Tree Vector flight
+controller with OSD, GPS embedded in one wing with the receiver in the other
+to keep them apart, VTX mounted as far aft as the CG allowed. Took off and
+landed in full FPV.
+
+→ [Full build notes](builds/spitfire-fpv/)
+
+## 4. ImpulseRC Alien 6" freestyle quad
 
 ![Alien 6-inch](builds/alien-6in/images/hero.jpg)
 
@@ -45,12 +57,36 @@ Parts list will be added.
 
 → [Full build notes](builds/alien-6in/)
 
-## 4. Where it started — Parrot Bebop 2
+## 5. Blade 400 — upgraded to flybarless
+
+![Blade 400](builds/blade-400/images/hero.jpg)
+
+Blade 400 electric heli, upgraded from the stock flybar head to an Ikon
+flybarless controller with high-end servos, on the same HoTT link as
+everything else. The photo shows it before the conversion. Flown to steady
+laps — the most demanding thing here to fly, and the reason the radio has a
+"THR HOLD" switch.
+
+→ [Full build notes](builds/blade-400/)
+
+## 6. Where it started — Parrot Bebop 2
 
 ![Bebop 2 next to the micro quad](builds/micro-quad-2in/images/parrot_and_mini.jpg)
 
 Off-the-shelf, but earns its place: it was the first multirotor I flew, and
 I've used it mostly for range testing and autonomous waypoint missions.
+
+## 7. DJI Mavic Pro (first generation)
+
+![Mavic Pro](builds/dji-mavic/images/hero.jpg)
+
+Off-the-shelf and unmodified, and kept here on purpose: a closed, integrated
+platform is a different discipline from the builds above. OcuSync digital
+link, GNSS positioning, vision-based obstacle sensing and precision landing,
+3-axis gimbal. I've run every flight mode it has — waypoints, ActiveTrack,
+TapFly, return-to-home — mostly to understand how a production autopilot
+behaves at the edges rather than to shoot video. It's the aircraft I reach
+for when the goal is reliable footage instead of a project.
 
 ---
 
