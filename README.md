@@ -88,6 +88,8 @@ TapFly, return-to-home — mostly to understand how a production autopilot
 behaves at the edges rather than to shoot video. It's the aircraft I reach
 for when the goal is reliable footage instead of a project.
 
+→ [Full build notes](builds/dji-mavic/)
+
 ---
 
 ## Transmitter
