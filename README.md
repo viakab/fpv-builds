@@ -37,7 +37,7 @@ quad: banked, forward-flight handling.
 
 ## 3. Foamboard Spitfire with full FPV harness
 
-![Spitfire](builds/spitfire-fpv/images/hero.jpg)
+![Spitfire](builds/spitfire-fpv/images/hero-spitfire.jpg)
 
 Scratch-built from foamboard sheets, then fitted out for FPV: camera on a
 pan servo so I could look around in flight, Eagle Tree Vector flight
@@ -59,7 +59,7 @@ Parts list will be added.
 
 ## 5. Blade 400 — upgraded to flybarless
 
-![Blade 400](builds/blade-400/images/hero.jpg)
+![Blade 400](builds/blade-400/images/hero-blade400.jpg)
 
 Blade 400 electric heli, upgraded from the stock flybar head to an Ikon
 flybarless controller with high-end servos, on the same HoTT link as
@@ -78,7 +78,7 @@ I've used it mostly for range testing and autonomous waypoint missions.
 
 ## 7. DJI Mavic Pro (first generation)
 
-![Mavic Pro](builds/dji-mavic/images/hero.jpg)
+![Mavic Pro](builds/dji-mavic/images/hero-mavic.jpg)
 
 Off-the-shelf and unmodified, and kept here on purpose: a closed, integrated
 platform is a different discipline from the builds above. OcuSync digital
